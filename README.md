@@ -6,7 +6,11 @@ plasm desktop like feel to it
 please feel free to contact me  at mistressnittani@simbey.com it would be very much appreaciated. 
 
 i need help compiling this bullshit 
-You can compile it or you can go to [Releases](https://github.com/skver0/x1/releases) to download a binary.
+
+i want to add a search bar 
+i want to add  themes to it  
+i want to make it moveable too
+
 
 ![alt text](https://skver.nixne.st/7de429.png)
 
